@@ -2,7 +2,7 @@
     {
         "title": "Hey Soul Sister",
         "artist": "Train",
-        "year of release": 2010,
+        "released": 2010,
         "genres":["neo mellow"]
 
     },
@@ -10,7 +10,7 @@
     {
         "title": "Love the Way You Lie",
         "artist": "Eminem",
-        "year of release": 2010,
+        "released": 2010,
         "genres":["hip hop", "pop"]
 
     },
@@ -18,7 +18,7 @@
     {
         "title": "Tik Tok",
         "artist": "Kesha",
-        "year of release": 2010,
+        "released": 2010,
         "genres":["pop"]
 
     },
@@ -26,7 +26,7 @@
     {
         "title": "Bad Romance",
         "artist": "Lady Gaga",
-        "year of release": 2010,
+        "released": 2010,
         "genres":["pop"]
 
     },
@@ -34,7 +34,7 @@
     {
         "title": "Just the Way You Are",
         "artist": "Bruno Mars",
-        "year of release": 2010,
+        "released": 2010,
         "genres":["pop"]
 
     },
@@ -42,7 +42,7 @@
     {
         "title": "Memories",
         "artist": "Maroon 5",
-        "year of release": 2019,
+        "released": 2019,
         "genres":["pop"]
 
     },
@@ -50,7 +50,7 @@
     {
         "title": "Lose You to Love Me",
         "artist": "Selena Gomez",
-        "year of release": 2019,
+        "released": 2019,
         "genres":["pop"]
 
     },
@@ -58,7 +58,7 @@
     {
         "title": "Someone You Loved",
         "artist": "Lewis Capaldi",
-        "year of release": 2019,
+        "released": 2019,
         "genres":["pop"]
 
     },
@@ -66,7 +66,7 @@
     {
         "title": "Seniorita",
         "artist": "Sean Mendez",
-        "year of release": 2019,
+        "released": 2019,
         "genres":["pop" , "hispanic"]
 
     },
@@ -74,7 +74,7 @@
     {
         "title": "How Do You Sleep?",
         "artist": "Sam Smith",
-        "year of release": 2019,
+        "released": 2019,
         "genres":["pop"]
 
     }
