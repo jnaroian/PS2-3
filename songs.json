@@ -1,17 +1,17 @@
 [
     {
-        "title": "Hey Soul Sister",
-        "artist": "Train",
-        "released": 2010,
-        "genres":["neo mellow"]
+        "title": "Crazy Train",
+        "artist": "Ozzy Osbourne",
+        "released": 1987,
+        "genres":["metal"]
 
     },
 
     {
-        "title": "Love the Way You Lie",
-        "artist": "Eminem",
-        "released": 2010,
-        "genres":["hip hop", "pop"]
+        "title": "Immigrant Song",
+        "artist": "Led Zepelin",
+        "released": 1970,
+        "genres":["metal"]
 
     },
 
@@ -48,18 +48,18 @@
     },
 
     {
-        "title": "Lose You to Love Me",
-        "artist": "Selena Gomez",
-        "released": 2019,
-        "genres":["pop"]
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "released": 1975,
+        "genres":["rock"]
 
     },
 
     {
-        "title": "Someone You Loved",
-        "artist": "Lewis Capaldi",
-        "released": 2019,
-        "genres":["pop"]
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "released": 1976,
+        "genres":["rock"]
 
     },
 
